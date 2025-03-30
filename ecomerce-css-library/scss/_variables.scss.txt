@@ -1,0 +1,10 @@
+scss/_variables.scss
+// Colors
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$font-family: 'Inter', sans-serif;
+
+// Spacing
+$spacing-small: 8px;
+$spacing-medium: 16px;
+$spacing-large: 32px;

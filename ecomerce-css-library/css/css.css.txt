@@ -1,0 +1,32 @@
+/* Badge */
+display: flex;
+width: 50px;
+height: 15px;
+padding: 0px 5px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+
+color: var(--Secondary, #FFF);
+text-align: center;
+font-feature-settings: 'liga' off, 'clig' off;
+
+/* Body 4 */
+font-family: Lato;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 12px */
+letter-spacing: -0.5px;
+
+/*Layout*/
+width: 50px;
+height: 15px;
+
+/*position*/
+position: absolute;
+
+/*style*/
+border-radius: 7.5px;
+background: var(--Blue-80, #42A5F5);
